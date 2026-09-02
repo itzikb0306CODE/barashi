@@ -1,0 +1,7 @@
+[
+  {
+    "name": "שם הבניין לצורך לוגים בלבד",
+    "oxs_building_id": "PASTE_BUILDING_ID_FROM_OXS_URL_HERE",
+    "bank_statement_path": "data/building1_bank_export.xlsx"
+  }
+]

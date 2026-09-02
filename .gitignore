@@ -1,0 +1,21 @@
+# Secrets
+.env
+buildings.json
+
+# Real financial data — never commit
+data/*.xlsx
+data/*.xls
+data/*.csv
+!data/.gitkeep
+
+# Logs and audit trails (contain tenant names/amounts)
+*.log
+audit_*.csv
+run_*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
